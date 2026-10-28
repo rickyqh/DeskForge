@@ -65,6 +65,27 @@ This application is designed for macOS. Compatibility depends on the macOS versi
 
 macOS restricts how third-party applications can modify system interface elements. Some customisations may therefore use independent windows, floating panels, menu bar extras, or other supported APIs rather than replacing protected system components.
 
+## ⚠️ macOS Security Warning
+
+When opening DeskForge, macOS may display a message saying Apple could not verify the app is free of malware because it is not notarised by Apple.
+
+This can happen when an app is distributed independently and has not gone through Apple's notarisation process.
+
+### How to Open DeskForge
+
+If you trust this download and obtained it from the official DeskForge release:
+
+1. Try opening DeskForge once. If macOS blocks it, close the warning.
+2. Open **System Settings** on your Mac.
+3. Go to **Privacy & Security**.
+4. Scroll down to the **Security** section.
+5. Look for the message about DeskForge being blocked and click **Open Anyway**.
+6. Confirm your choice when prompted, then open DeskForge again.
+
+**Security note:** Only override this warning if you trust the source of the app. This does not prove the app is safe; review the source code or verify the release if you have concerns.
+
+If the **Open Anyway** option does not appear, check that you have attempted to open the app first and that you are using a compatible macOS version.
+
 ## 🤝 Contributing
 
 Suggestions, bug reports, and feature requests are welcome.
