@@ -86,3 +86,4 @@ Until a license is added to this repository, do not assume that the source code 
 The goal is simple: give Mac users more freedom to create a desktop that feels like their own.
 
 **Your Mac. Your layout. Your rules.**
+released on MacOs 27
